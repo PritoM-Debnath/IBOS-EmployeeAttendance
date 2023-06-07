@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2jCCRhd59rls0qwJUIbbKn4jNrOYYs0gc9JoFbtEBqg=",
+  "Source": "EmployeeAttendance",
+  "BasePath": "_content/EmployeeAttendance",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
